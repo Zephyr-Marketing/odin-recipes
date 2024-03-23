@@ -3,4 +3,4 @@
 
 - I also run my own shop which currently has a 70% OFF DISCOUNT! 🔥 Check it out https://zephyrshop.org/
 
-- This project will demonstrate my HTML skills so far and it is about a recipe website.
+This project will demonstrate my HTML skills so far and it is about a recipe website.
