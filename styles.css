@@ -1,11 +1,12 @@
 * {
-  font-family: sans-serif, "Times New Roman", monospace;
+    font-family: sans-serif, "Times New Roman", monospace;
 }
 
 .title {
     text-align: center;
     background-color: rgb(245, 121, 113);
-    color: black
+    color: black;
+    font-weight: 900;
 }
 
 .ing,
